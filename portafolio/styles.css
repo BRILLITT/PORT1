@@ -649,6 +649,7 @@ background-color:#e4dbd7;
           align-items: center;
 
         }.section_div--textos--ti2{
+            margin-top: 50px;
             font-size: var(--tamañotexto_tituloDesktop);
         }.section_div--textos--sub{
             font-size: var(--tamaño_subtitulotexto_Desktop);
