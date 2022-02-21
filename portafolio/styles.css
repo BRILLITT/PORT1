@@ -54,8 +54,9 @@ overflow: scroll;
     background-color:#0a422e;
     font-size: var(--tamaño_subtitulotexto_Desktop);
     height: 50%;
+    font-size: 20px;
     width: 100%;
-    padding: 20px;
+    padding: 5px;
     position: absolute;
     text-align: center;
     display: flex;
@@ -76,10 +77,11 @@ overflow: scroll;
     text-decoration: none;
     color: var(--colorFondo);
     font-family: var(--tipotexto);
-    font-size:16px;
+    font-size:20px;
     transform: scale(1) ;
     cursor: pointer;
     padding: 5px 0px ;
+    position: relative;
    
 }.div_ul-menu:hover{
     transform: scale(1.02);
